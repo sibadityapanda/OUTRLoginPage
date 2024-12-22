@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to top, #9290fb, #fffdfd);
+}
+.user {
+    margin: 10px;
+}
+.forgot1{
+    padding-bottom: 10px;
+}
+.forgot{
+    color: black;
+    font-size: 15px;
+    margin-left: 220px;
+    padding-bottom: 10px;
+    
+}
+.button{
+    
+    width: 40%;
+    padding: 12px;
+    background-color: #2044f8;
+    border-radius: 40px;
+    color: white;
+    font-size: 16px;
+}
+.button1{
+    padding: 6px;
+    border-radius: 17px;
+    width: 20%;
+    background-color: #2044f8;
+    color: white;
+}
+.button2{
+    padding: 6px;
+    border-radius: 17px;
+    width: 20%;
+}
+
+.user input {
+    width: 270px;
+    padding: 5px;
+    padding-left: 20px;
+    border: 1px solid #827979;
+    border-radius: 40px;
+    font-size: 16px;}
+.loginBox{
+    height: 500px;
+    width: 400px;
+    border: 0px solid black;
+    text-align: center;
+    background: linear-gradient(to top,#fffdfd, #9290fb );
+    margin-left: 550px;
+    margin-top: 120px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.img{
+    height: 100px;
+    width: 100px;
+}
+.OUTR1 h3{
+    color: #827979;
+}
+.logo{
+    height: 20px;
+}
